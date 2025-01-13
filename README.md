@@ -1,19 +1,17 @@
-# Curso GRATUITO de Laravel 11.x
+# Curso Laravel 11
 
-- :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-11-completo-e-gratuito).
+- :movie_camera: 
 
 
-Links Úteis:
 
-- :tada: [Saiba Mais](https://linktr.ee/especializati)
 
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone https://github.com/especializati/curso-laravel-11 laravel-11
+git git@github.com:aldo-pereira22/curso-laravel-11.git
 ```
 ```sh
-cd laravel-11/
+cd curso-laravel-11/
 ```
 
 
@@ -25,7 +23,7 @@ cp .env.example .env
 
 Atualize essas variáveis de ambiente no arquivo .env
 ```dosini
-APP_NAME="Especializa Ti"
+APP_NAME="Seu projeto - Ti"
 APP_URL=http://localhost:8989
 
 DB_CONNECTION=mysql
